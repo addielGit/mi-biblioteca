@@ -1,0 +1,58 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "El Quinto Infierno 1",
+      "description": "Description del libro El Quinto Infierno",
+      "srcImg": "/static/media/portada1.b50baa13024df5bff29d.webp"
+    },
+    {
+      "id": 2,
+      "title": "El Quinto Infierno 2",
+      "description": "Description del libro El Quinto Infierno",
+      "srcImg": "/static/media/portada9.52a29d82e13a53daf3b3.jpg"
+    },
+    {
+      "id": 3,
+      "title": "El Quinto Infierno 3",
+      "description": "Description del libro El Quinto Infierno 3",
+      "srcImg": "/static/media/portada3.08a1e19ee02b4803f991.webp"
+    },
+    {
+      "id": 4,
+      "title": "El Quinto Infierno 4",
+      "description": "Description del libro El Quinto Infierno 4",
+      "srcImg": "/static/media/portada4.ea6b45a85862ec65632c.jpg"
+    },
+    {
+      "id": 5,
+      "title": "El Quinto Infierno 5",
+      "description": "Description del libro El Quinto Infierno 5",
+      "srcImg": "/static/media/portada5.3989205f5dc6d1aea337.jpg"
+    },
+    {
+      "id": 6,
+      "title": "El Quinto Infierno 6",
+      "description": "Description del libro El Quinto Infierno 6",
+      "srcImg": "/static/media/portada6.142a5ff661ce28853846.jpg"
+    },
+    {
+      "id": 7,
+      "title": "El Quinto Infierno 7",
+      "description": "Description del libro El Quinto Infierno 7",
+      "srcImg": "/static/media/portada7.8f010aed476976f132cf.jpg"
+    },
+    {
+      "id": 8,
+      "title": "El Quinto Infierno 8",
+      "description": "Description del libro El Quinto Infierno 8",
+      "srcImg": "/static/media/portada8.a6b811ad82cd8279f0fa.jpg"
+    },
+    {
+      "id": 9,
+      "title": "El Quinto Infierno 9",
+      "description": "Description del libro El Quinto Infierno 9",
+      "srcImg": "/static/media/portada9.52a29d82e13a53daf3b3.jpg"
+    }
+  ]
+}
