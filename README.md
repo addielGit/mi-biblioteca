@@ -11,7 +11,11 @@ Abra [http://localhost:3000](http://localhost:3000) para verlo en su navegador.
 # Iniciar  Servidor Local 
 Ejecutar desde la raiz del proyecto el siguiente comando:
 
-`json-server --watch db.json --port 4000 `
+`npm run serverLocal `
+
+Abra [http://localhost:4000/](http://localhost:4000/) para verlo en su navegador.
+
+`http://localhost:4000/books `
 
 
 ### `npm run build`
