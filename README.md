@@ -1,5 +1,5 @@
 # mi-biblioteca
-Demo Mi Biblioteca
+Demo `Mi Biblioteca` aplicación desarrollada con React.
 
 # Iniciar App
 Eecutar desde la raiz del proyecto el siguiente comando: 
@@ -15,10 +15,11 @@ Ejecutar desde la raiz del proyecto el siguiente comando:
 
 Abra [http://localhost:4000/](http://localhost:4000/) para verlo en su navegador.
 
+### `API endpoint`
 `http://localhost:4000/books `
 
 
-### `npm run build`
+# npm run build
 
 Construye la aplicación para la producción a la `build` carpeta.\
 Empaqueta correctamente React en modo de producción y optimiza la compilación para obtener el mejor rendimiento.

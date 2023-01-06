@@ -1,0 +1,14 @@
+/* section {
+  height: 38rem;
+} */
+
+.anticon-menu-fold,
+.anticon-menu-unfold {
+  padding: 1rem;
+  font-size: 1.2rem;
+}
+
+.ant-card-cover img {
+  max-height: 20rem;
+  max-width: 15rem;
+}
